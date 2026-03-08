@@ -1,0 +1,22 @@
+{
+  "name": "Parsec Wars",
+  "short_name": "Parsec Wars",
+  "description": "Real-time strategy galaxy domination game",
+  "start_url": "parsec-wars.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000008",
+  "theme_color": "#000008",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
